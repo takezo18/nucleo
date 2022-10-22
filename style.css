@@ -1,0 +1,12 @@
+
+#initial-cards-cards:hover{
+    box-shadow: 1px 1px 20px rgb(221, 221, 221);
+    outline: 0;
+    transition: 0.5s;
+}
+
+#content-container-first:hover{
+    box-shadow: 1px 1px 30px rgb(221, 221, 221);
+    transition: 2s;
+}
+
